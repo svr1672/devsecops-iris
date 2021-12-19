@@ -1,6 +1,5 @@
 name: ci-cd
-
-# run the action on pull_requests and pushes
+ run the action on pull_requests and pushes
 on: push
 
 jobs:
